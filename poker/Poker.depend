@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1620310775 source:c:\users\theap\desktop\adimaker\2.3 adi2\t3\projet c++ jeu de cartes\poker\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<algorithm>
+	"card.h"
+
+1619014218 c:\users\theap\desktop\adimaker\2.3 adi2\t3\projet c++ jeu de cartes\poker\include\card.h
+	<iostream>
+	<vector>
+	<map>
+
+1619014243 source:c:\users\theap\desktop\adimaker\2.3 adi2\t3\projet c++ jeu de cartes\poker\src\card.cpp
+	<stdexcept>
+	"Card.h"
+
+1621276692 source:c:\users\theap\desktop\adimaker\2.3 adi2\t3\projet c++ jeu de cartes\poker\handgeneration.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Card.h"
+	<vector>
+
